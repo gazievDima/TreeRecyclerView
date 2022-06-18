@@ -2,7 +2,7 @@
 
 ## Root and Child entity.
 
-<img src="https://github.com/gazievDima/TreeRecyclerView/blob/main/screenshot.jpg">
+<img src="https://github.com/gazievDima/TreeRecyclerView/blob/main/screenshot.jpg" width="200" height="450">
 
 ## Example usage
 
