@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TreeRecyclerVIew</string>
+    <string name="empty_tree_with_tree">Empty Tree with Tree</string>
+    <string name="empty_tree">Empty Tree</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="line">-</string>
+</resources>
