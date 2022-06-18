@@ -2,9 +2,7 @@
 
 ## Root and Child entity.
 
-[img_girl.jpg](https://github.com/gazievDima/TreeRecyclerView/blob/main/screenshot.jpg)
-
-
+<img src="https://github.com/gazievDima/TreeRecyclerView/blob/main/screenshot.jpg">
 
 ## Example usage
 
