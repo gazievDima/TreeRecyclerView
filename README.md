@@ -6,3 +6,5 @@
 
 ## Example usage
 
+<img src="https://github.com/gazievDima/TreeRecyclerView/blob/main/gif.mp4" >
+
